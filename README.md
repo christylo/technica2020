@@ -28,10 +28,10 @@ Builds the app for Chrome to the `build` folder.<br>
 ## CREDS:
 
 bootstrapped from https://github.com/upmostly/react-chrome-extension
-## react-chrome-extension
+### react-chrome-extension
 
 This is the first in a series of React boilerplate projects to help web developers learn and understand React. This project actually came about as I was creating my latest project, [StyleStash - Save Your favorite CSS Styles](https://stylestash.dev).
 
-## Video Code Walkthrough
+### Video Code Walkthrough
 
 If you're more of a visual learner, I've recorded a [20 minute video walkthrough of this project](https://www.youtube.com/watch?v=4x0lQu1TOCQ).
